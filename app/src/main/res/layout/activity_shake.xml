@@ -4,8 +4,8 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent"
               android:layout_gravity="center"
-              android:background="@drawable/shake_screen"
               android:gravity="center"
+              android:background="@drawable/backgroundmain"
               android:orientation="vertical"
               tools:context=".ShakeActivity">
 
@@ -23,7 +23,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_gravity="center"
-            android:layout_weight="4"
+            android:layout_weight="6"
             android:layout_marginBottom="20dp"
             android:gravity="center">
 
@@ -49,7 +49,7 @@
             android:layout_height="0dp"
             android:layout_gravity="center"
             android:layout_marginTop="5dp"
-            android:layout_weight="4"
+            android:layout_weight="6"
             android:gravity="center">
 
         <ImageView
