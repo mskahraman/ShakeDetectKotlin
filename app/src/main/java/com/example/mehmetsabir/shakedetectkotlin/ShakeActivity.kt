@@ -90,7 +90,6 @@ class ShakeActivity : AppCompatActivity() {
             }
         })
     }
-
     private fun changeLevel(position : Int)  {
 
         when (position) {
